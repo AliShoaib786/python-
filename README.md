@@ -1,4 +1,4 @@
-# python-
+# python- #  1
 all python  practics  question  with detail
 
 
